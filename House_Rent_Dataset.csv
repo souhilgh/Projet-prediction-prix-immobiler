@@ -1,0 +1,21 @@
+Ville,Type,Surface,Nb_Pieces,Nb_Chambres,Nb_Salles_Bain,Etat,Prix
+Alger,Appartement,80,3,2,1,Neuf,45000000
+Oran,Appartement,70,2,1,1,Bon état,28000000
+Constantine,Appartement,65,2,1,1,À rénover,20000000
+Annaba,Villa,120,4,3,2,Neuf,80000000
+Alger,Appartement,90,3,2,2,Bon état,50000000
+Blida,Appartement,75,3,2,1,Neuf,35000000
+Oran,Maison,100,4,3,2,Bon état,45000000
+Alger,Appartement,60,2,1,1,Vétuste,22000000
+Sétif,Villa,150,5,4,2,Neuf,60000000
+Alger,Fermat,200,6,4,3,Bon état,75000000
+Constantine,Appartement,85,3,2,1,Neuf,38000000
+Annaba,Appartement,70,2,1,1,Bon état,30000000
+Batna,Maison,110,4,3,2,À rénover,35000000
+Alger,Villa,180,5,4,3,Neuf,95000000
+Oran,Appartement,95,3,2,2,Bon état,42000000
+Tlemcen,Appartement,75,3,2,1,Neuf,32000000
+Mostaganem,Maison,130,4,3,2,Bon état,48000000
+Alger,Appartement,100,4,3,2,Neuf,60000000
+Oran,Villa,160,5,4,3,Bon état,70000000
+Constantine,Appartement,55,1,1,1,Vétuste,15000000
